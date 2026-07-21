@@ -2,9 +2,6 @@
 
 ##  Case Study Project #10 - Python Study Group
 
-> **Deadline:** 24th July  
-> **Coach:** Timothy
-
 ---
 
 ##  Project Overview
