@@ -80,6 +80,9 @@ As a developer at **AlphaEdge Investments** (a FinTech company), I built this pr
    - Updates market price using assignment operators
    - Simulates real-time market changes
 
+<img width="1266" height="1158" alt="Screenshot 2026-07-21 183233" src="https://github.com/user-attachments/assets/a800d047-d151-4690-a6a4-193fb20244f0" />
+
+
 4. **Performance Analysis**
    - Target price achievement check
    - Performance against expectations
@@ -89,5 +92,12 @@ As a developer at **AlphaEdge Investments** (a FinTech company), I built this pr
 5. **Professional Report Generation**
    - Clean, formatted output
    - Ready for investment manager presentation
+  
+<img width="1246" height="1287" alt="Screenshot 2026-07-21 183249" src="https://github.com/user-attachments/assets/e4d0ecde-2188-4484-8b76-bf388fa6b25e" />
+
+
+
+<img width="1287" height="783" alt="Screenshot 2026-07-21 183305" src="https://github.com/user-attachments/assets/e73fee67-6c10-4663-b742-7ad850d40a69" />
+
 
 ---
